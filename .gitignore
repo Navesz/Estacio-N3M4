@@ -1,0 +1,56 @@
+# Arquivos e diretórios específicos do Gradle
+.gradle/
+build/
+.gradletasknamecache
+
+# Arquivos e diretórios específicos do Android Studio
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+*.iws
+*.ipr
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Arquivos e diretórios específicos do Android
+app/build/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+obj/
+proguard/
+
+# Arquivos específicos do sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos de log
+*.log
+logs/
+
+# Outros
+.xml
+.descriptions.xml
+
+# Arquivos específicos do projeto
+atividade.md
+Screenshot_20250504_*.png
