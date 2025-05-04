@@ -81,4 +81,4 @@ Para executar este projeto:
 
 ## Autor
 
-Este projeto foi desenvolvido como parte do curso de desenvolvimento mobile, como uma atividade prática para aprendizado de desenvolvimento para Wear OS com foco em acessibilidade e uso de sensores. 
+Este projeto foi desenvolvido como parte do curso de desenvolvimento mobile, como uma atividade prática para aprendizado de desenvolvimento para Wear OS com foco em acessibilidade e uso de sensores.
